@@ -1,0 +1,9 @@
+
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target  'TestLibrary123' do
+  pod 'ZeotapCollect', '~> 0.0.3'
+end

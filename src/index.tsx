@@ -20,3 +20,10 @@ const TestLibrary123 = NativeModules.TestLibrary123
 export function multiply(a: number, b: number): Promise<number> {
   return TestLibrary123.multiply(a, b);
 }
+export function setEvent(s: string) {
+  return TestLibrary123.setEvent(s);
+}
+
+export function init() {
+  return TestLibrary123.init();
+}
