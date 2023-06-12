@@ -1,0 +1,16 @@
+PODS:
+  - ZeotapCollect (0.0.5)
+
+DEPENDENCIES:
+  - ZeotapCollect (~> 0.0.3)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ZeotapCollect
+
+SPEC CHECKSUMS:
+  ZeotapCollect: a245fbed534ebcb72c23aea1752e6691eb05e97d
+
+PODFILE CHECKSUM: 5072c14a2b60a83c208d1b727d1a3df52a96f45b
+
+COCOAPODS: 1.12.1

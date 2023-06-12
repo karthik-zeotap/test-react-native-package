@@ -1,0 +1,6 @@
+module Pods_TestLibrary123 {
+  umbrella header "Pods-TestLibrary123-umbrella.h"
+
+  export *
+  module * { export * }
+}
